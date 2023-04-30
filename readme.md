@@ -1,4 +1,4 @@
-# CA-Projects-template-submission-repo
+# LP2 Timeseries Project
 This project is About the Analysis of the Indian Startup Market using data from 2018 to 2021
 
 ## Summary
