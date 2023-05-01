@@ -1,5 +1,5 @@
 # LP2 Timeseries Project
-This project is About the Analysis of the Indian Startup Market using data from 2018 to 2021
+This goal of this project is to develop a model which accurately predicts sales across various stores of Favorita
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
